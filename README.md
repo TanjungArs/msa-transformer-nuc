@@ -152,7 +152,7 @@ python train.py
 
 <br>
 
-## 📁 Related Repository
+## 🌐 Related Repository
 
 * 🔵 Deployment / Inference System:
   [https://github.com/TanjungArs/MSA-Transformer](https://github.com/TanjungArs/MSA-Transformer)
@@ -164,3 +164,17 @@ python train.py
 * This repository is focused on **training and research**
 * Pretrained models are exported as `.pt` checkpoints
 * Inference is handled in a separate production system
+
+
+## 🎓 Research Citation
+
+```bibtex
+@thesis{tanjung2026msa,
+  author       = {Tanjung Arswendo Yudha},
+  title        = {Penerapan Model Sequence-to-Sequence Menggunakan Transformer Untuk Penjajaran Sekuens Nukleotida},
+  school       = {Universitas Islam Negeri Syarif Hidayatullah Jakarta},
+  year         = {2026},
+  type         = {Skripsi},
+  department   = {Program Studi Teknik Informatika}
+}
+```
