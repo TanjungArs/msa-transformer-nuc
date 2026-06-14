@@ -72,8 +72,8 @@ Shared Context Representation
     ┌───────────────────────────┐
     ▼                           ▼
 Align Decoder              Gap Decoder
-│                               │
-▼                               ▼
+    │                           │
+    ▼                           ▼
 Aligned Tokens            Indel Structure
 ```
 
