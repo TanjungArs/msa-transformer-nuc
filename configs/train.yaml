@@ -1,0 +1,13 @@
+stage:
+  seq_count: 3
+  epochs: 50
+  batch_size: 32
+  lr: 4.0e-4
+
+data: 
+  max_samples: null
+
+resume:
+  enable: true
+  resume_mid_epoch: true # resume checkpoint (if crash or trouble)
+  load_prev_stage: false   # if new stage / seq

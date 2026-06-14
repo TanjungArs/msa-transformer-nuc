@@ -1,0 +1,42 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+.env/
+.env.*
+
+# PyTorch / model checkpoints
+*.pt
+*.pth
+ckpt/
+experiments/
+models/
+
+# Logs / outputs
+logs/
+inference/*/
+output/
+outputs/
+result/
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Cache / temp
+*.tmp
+*.log
+temp/
+tmp/
